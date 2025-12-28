@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Shining One (Re-recorded)",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T17:34:53.116743Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shining One (Re-recorded)",
+      "artist": "BE:FIRST",
+      "has_synced": true,
+      "path": "select/01_Shining_One_(Re-recorded)_BE_FIRST.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shining One(Re recorded)",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Shining_One(Re_recorded)_BE_FIRST.txt"
+    }
+  ]
+}
